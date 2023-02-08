@@ -1,3 +1,3 @@
 let userName = "John";
 
-console.log("Welcom userName");
+console.log("Welcom John");

@@ -1,6 +1,5 @@
-let a = prompt('Enter the first variable: ');
-let b = prompt('Enter the second variable: ');
-
+let a = 10;
+let b = 20;
 let temp;
 
 temp = a;
